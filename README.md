@@ -1,1 +1,2 @@
 # physicsInParticles
+this is one of my projects for the class "Games and AI" IN THE MSc "Computer Vision and Computational Intelligence" and is focused on the physics of the particles in animations. It was asked to create a batch of spheres on which lateral, gravitational, repulsive and attractive forces are exerted. In the second file there is a scene with a sphere on which there is gravity and friction.
